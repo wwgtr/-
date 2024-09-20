@@ -7,8 +7,8 @@
     "ads_free": "",
 
     "admob_id": "ca-app-pub-0000~8486975359",
-    "admob_app_open": "/23120430036,23029069462/ellipi.messenger_AppOpen_Rasool",
-    "admob_interstitial": "/23120430036,23029069462/ellipi.messenger_Interstitial_Rasool",
+    "admob_app_open": "/23120430036,23029069462/elli.messenr_AppOpen_Rasool",
+    "admob_interstitial": "/23120430036,230290662/ellipi.messe_Interstitial_Rasool",
     "admob_native": "",
 
     "ads_native_main": "false",
@@ -35,6 +35,6 @@
     "xmod_c": "1000",
 
     "mini_alert": "true",
-    "mini_text": "This mini-app grants you stars with which you can buy paid posts or subscribe to paid channels, would you like to opent it?",
+    "mini_text": " اشترك بقناة قلعة التقنيات للمزيد من التطبيقات المهكرة   🤲🏼 اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ 🌸",
     "mini_link": "https://t.me/TechCsl"
 }
